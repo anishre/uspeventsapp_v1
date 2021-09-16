@@ -2,4 +2,4 @@
 
 USP Events Mobile App in Flutter
 
-#Team 5
+#Developed by Team 5
